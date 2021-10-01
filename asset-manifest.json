@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ResponsiveNavbar/static/css/main.f80c5b48.chunk.css",
+    "main.js": "/ResponsiveNavbar/static/js/main.f68a1010.chunk.js",
+    "main.js.map": "/ResponsiveNavbar/static/js/main.f68a1010.chunk.js.map",
+    "runtime-main.js": "/ResponsiveNavbar/static/js/runtime-main.04ff6e89.js",
+    "runtime-main.js.map": "/ResponsiveNavbar/static/js/runtime-main.04ff6e89.js.map",
+    "static/js/2.3e2e6378.chunk.js": "/ResponsiveNavbar/static/js/2.3e2e6378.chunk.js",
+    "static/js/2.3e2e6378.chunk.js.map": "/ResponsiveNavbar/static/js/2.3e2e6378.chunk.js.map",
+    "static/js/3.dbd8699d.chunk.js": "/ResponsiveNavbar/static/js/3.dbd8699d.chunk.js",
+    "static/js/3.dbd8699d.chunk.js.map": "/ResponsiveNavbar/static/js/3.dbd8699d.chunk.js.map",
+    "index.html": "/ResponsiveNavbar/index.html",
+    "static/css/main.f80c5b48.chunk.css.map": "/ResponsiveNavbar/static/css/main.f80c5b48.chunk.css.map",
+    "static/js/2.3e2e6378.chunk.js.LICENSE.txt": "/ResponsiveNavbar/static/js/2.3e2e6378.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04ff6e89.js",
+    "static/js/2.3e2e6378.chunk.js",
+    "static/css/main.f80c5b48.chunk.css",
+    "static/js/main.f68a1010.chunk.js"
+  ]
+}
